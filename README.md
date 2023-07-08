@@ -1,2 +1,3 @@
 # Location-Based-Crime-Pattern-Detection
-Implementing Machine learning and Named entity recognition for location based crime pattern detection
+With the increasing crime rate in India, prospective homebuyers are becoming increasingly concerned about ensuring the safety of their new homes. The location of a property plays a crucial role in determining its safety, prompting buyers to prioritize areas with lower crime rates. However, relying solely on location-based crime statistics might not provide a comprehensive understanding of the safety situation. Through this project, our team achieved a machine learning-based system that aggregates previous crimes, considering not only the location but also the victim's profile.
+
